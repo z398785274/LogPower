@@ -1,0 +1,17 @@
+*.[oa]
+*.so
+*.d
+*~
+*.swp
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.opensdf
+*.dep
+./out/
+duokoo_payment
+duokoo_user
+duokoo_openApi
+duokoo_sms_moniter
